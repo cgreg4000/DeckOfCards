@@ -1,0 +1,10 @@
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.deps.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.dev.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfo.cs
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/oop_with_c#/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb
